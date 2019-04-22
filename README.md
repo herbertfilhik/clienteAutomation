@@ -1,5 +1,5 @@
-Automacao Diretor e Filmes
-Realiza automacao cadastro de diretores e filmes
+# Automacao Diretor e Filmes
+###Realiza automacao cadastro de diretores e filmes
 
 O código da aplicação está desenvolvido com as seguintes tecnologias:
 
@@ -9,7 +9,7 @@ O código da aplicação está desenvolvido com as seguintes tecnologias:
 - Junit
 - Webdriver
 
-Para a Execução dos Testes, seguir os passos:
+###Para a Execução dos Testes, seguir os passos:
 
 - Baixar o código fonte do git
 - Importar no Eclipse o projeto como Maven
