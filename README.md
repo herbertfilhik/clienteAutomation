@@ -9,13 +9,9 @@ Selenium
 Junit
 Webdriver
 
----
-
 Para a Execução dos Testes, seguir os passos:
 
 Baixar o código fonte do git
 Importar no Eclipse o projeto como Maven
 Atualizar o Projeto
 Executar a classe SuiteTeste.java como junit
-
----
